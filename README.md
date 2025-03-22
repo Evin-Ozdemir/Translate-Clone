@@ -18,9 +18,7 @@ https://github.com/user-attachments/assets/f18c4e40-8be9-42d6-8edc-06f1f10b8c27
    <li>Axios 🌐 - It is a popular client library used to make HTTP requests.</li>
    <li>React-Redux 🔄 - By integrating React components with the Redux store, it makes it easier for components to retrieve data from the store and dispatch operations.</li>
    <li>React-Select 🔘 - It provides fully featured, customizable select/dropdown components.</li>
-   
-   
-   
+     
  </ul>  
  
  <h2>🎨 Features</h2>
